@@ -1,2 +1,2 @@
-# Language_Processing_Project
-Project made for Language Processing subject 
+# Language Processing Project
+Project made for the Language Processing subject 
